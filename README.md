@@ -10,7 +10,7 @@ UMI is a vintage dark industrial theme for the Steam client via [Millennium](htt
 2. Clone this repo into your Millennium skins directory:
 
 ```sh
-git clone https://github.com/alexh/umi-millennium-theme.git ~/.local/share/Steam/steamui/skins/UMI
+git clone https://github.com/utility-materials/umi-millennium-theme.git ~/.local/share/Steam/steamui/skins/UMI
 ```
 
 3. Open Steam, go to `Steam` -> `Millennium` -> `Themes`, then select `UMI`.

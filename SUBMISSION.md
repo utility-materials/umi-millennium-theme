@@ -14,7 +14,7 @@ UMI
 
 ### Repository
 
-https://github.com/alexh/umi-millennium-theme
+https://github.com/utility-materials/umi-millennium-theme
 
 ### Description
 
